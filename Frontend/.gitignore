@@ -1,0 +1,43 @@
+# Miscellaneous
+pasaporte_app/*.class
+pasaporte_app/*.log
+pasaporte_app/*.pyc
+pasaporte_app/*.swp
+pasaporte_app/.DS_Store
+pasaporte_app/.atom/
+pasaporte_app/.buildlog/
+pasaporte_app/.history
+pasaporte_app/.svn/
+pasaporte_app/migrate_working_dir/
+
+# IntelliJ related
+pasaporte_app/*.iml
+pasaporte_app/*.ipr
+pasaporte_app/*.iws
+pasaporte_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+pasaporte_app/**/doc/api/
+pasaporte_app/**/ios/Flutter/.last_build_id
+pasaporte_app/.dart_tool/
+pasaporte_app/.flutter-plugins
+pasaporte_app/.flutter-plugins-dependencies
+pasaporte_app/.pub-cache/
+pasaporte_app/.pub/
+pasaporte_app/build/
+
+# Symbolication related
+pasaporte_app/app.*.symbols
+
+# Obfuscation related
+pasaporte_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+pasaporte_app/android/app/debug
+pasaporte_app/android/app/profile
+pasaporte_app/android/app/release
